@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm André 👋
+
+
+### I'm a Software Engineer at [Umatch](https://umatch.app/)
+
+You can learn more about me through my [LinkedIn](https://linkedin.com/in/andrelfnavarro).
 
 <!--
 **andrelfnavarro/andrelfnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+------------
+
+<div>
+  <a href="https://github.com/andrelfnavarro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelfnavarro&count_private=true&hide=stars&theme=dracula&include_all_commits=true"/>
+</div>
