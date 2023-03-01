@@ -3,7 +3,7 @@
 
 ### I work as a Software Engineer at [Umatch](https://umatch.app/)
 
-You can learn more about me through my [LinkedIn](https://linkedin.com/in/andrelfnavarro).
+You can learn more about me on my [website](https://www.andrelfnavarro.dev/)
 
 <!--
 **andrelfnavarro/andrelfnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
