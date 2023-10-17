@@ -1,7 +1,7 @@
 ### Hi, I'm André 👋
 
 
-### I work as a Software Engineer at [Umatch](https://umatch.app/)
+### I work as a Tech Lead at [Umatch](https://umatch.app/)
 
 You can learn more about me on my [website](https://www.andrelfnavarro.dev/)
 
